@@ -24,8 +24,10 @@ by: Sebastian Gudino and Mariana Cardona Vidal
     * The program searches for the pattern using KMP and prints the positions where it appears.
 
 ---
+## known issues:
 
-## Report issues
+doesnot work with strings with spaces, and it does not work with empty strings.
+## Report issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the repository.
 
 
@@ -36,3 +38,7 @@ buy a pen for a homeless student!!
 ## Contact: 
 
 [gudinosebastian2006@gmail.com]
+
+## explanatory video by byteQuest: 
+
+https://youtu.be/ynv7bbcSLKE?si=hu2FDjUEq2ArhLij
